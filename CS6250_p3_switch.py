@@ -1,4 +1,4 @@
-rom Message import *
+from Message import *
 
 from StpSwitch import *
 
